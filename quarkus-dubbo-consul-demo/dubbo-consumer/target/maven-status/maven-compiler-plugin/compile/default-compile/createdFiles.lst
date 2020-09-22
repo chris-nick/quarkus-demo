@@ -1,5 +1,0 @@
-org/acme/quarkus/dubbo/consul/controller/GreetingResource.class
-org/acme/quarkus/dubbo/consul/config/DubboProperties$Protocol.class
-org/acme/quarkus/dubbo/consul/config/DubboProperties.class
-org/acme/quarkus/dubbo/consul/controller/OrderController.class
-org/acme/quarkus/dubbo/consul/config/DubboConsumerConfig.class
