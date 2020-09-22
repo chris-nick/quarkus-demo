@@ -1,0 +1,4 @@
+org/acme/quarkus/dubbo/consul/config/DubboProperties$Protocol.class
+org/acme/quarkus/dubbo/consul/config/DubboProperties.class
+org/acme/quarkus/dubbo/consul/config/DubboProviderConfig.class
+org/acme/quarkus/dubbo/consul/service/OrderServiceImpl.class

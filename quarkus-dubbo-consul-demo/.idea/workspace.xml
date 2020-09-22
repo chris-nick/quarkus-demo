@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bf3f692a-26df-4afd-b7e3-94921ab4b57f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1hfPUThVHAevLSY6t8N4MeEqxYI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/xyzshop-consumer/src/main/java/com/tencent/xyzshop/config" />
+      <recent name="$PROJECT_DIR$/xyzshop-provider/src/main" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.tencent.xyzshop.service" />
+      <recent name="com.tencent.xyzshop.config" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/xyzshop-provider/src/main" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Quarkus (Maven).consumer">
+    <configuration name="consumer" type="QuarkusMavenBridge">
+      <option name="jreName" value="11" />
+      <option name="vmOptions" />
+      <option name="workingDir" value="$PROJECT_DIR$/dubbo-consumer" />
+      <method v="2" />
+    </configuration>
+    <configuration name="interface" type="QuarkusMavenBridge">
+      <option name="jreName" value="11" />
+      <option name="vmOptions" />
+      <option name="workingDir" value="$PROJECT_DIR$/dubbo-api" />
+      <method v="2" />
+    </configuration>
+    <configuration name="provider" type="QuarkusMavenBridge">
+      <option name="jreName" value="11" />
+      <option name="vmOptions" />
+      <option name="workingDir" value="$PROJECT_DIR$/dubbo-provider" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Quarkus (Maven).consumer" />
+      <item itemvalue="Quarkus (Maven).interface" />
+      <item itemvalue="Quarkus (Maven).provider" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bf3f692a-26df-4afd-b7e3-94921ab4b57f" name="Default Changelist" comment="" />
+      <created>1600399188045</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600399188045</updated>
+      <workItem from="1600399190247" duration="2707000" />
+      <workItem from="1600403491944" duration="482000" />
+      <workItem from="1600403984910" duration="709000" />
+      <workItem from="1600404905953" duration="9588000" />
+      <workItem from="1600419965616" duration="31751000" />
+      <workItem from="1600681558470" duration="688000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="271" y="33" key="#Project_Structure" timestamp="1600421538680">
+      <screen x="0" y="23" width="1536" height="866" />
+    </state>
+    <state x="271" y="33" key="#Project_Structure/0.23.1536.866@0.23.1536.866" timestamp="1600421538680" />
+    <state x="521" y="224" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1600672140433">
+      <screen x="0" y="23" width="1536" height="866" />
+    </state>
+    <state x="521" y="224" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.23.1536.866@0.23.1536.866" timestamp="1600672140433" />
+    <state x="248" y="113" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600681782458">
+      <screen x="0" y="23" width="1536" height="866" />
+    </state>
+    <state x="248" y="113" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1536.866@0.23.1536.866" timestamp="1600681782458" />
+    <state x="596" y="164" key="#com.intellij.ide.util.MemberChooser" timestamp="1600676952267">
+      <screen x="0" y="23" width="1536" height="866" />
+    </state>
+    <state x="596" y="164" key="#com.intellij.ide.util.MemberChooser/0.23.1536.866@0.23.1536.866" timestamp="1600676952267" />
+    <state x="547" y="295" key="#com.intellij.refactoring.move.moveInstanceMethod.MoveInstanceMethodDialog" timestamp="1600426070713">
+      <screen x="0" y="23" width="1536" height="866" />
+    </state>
+    <state x="547" y="295" key="#com.intellij.refactoring.move.moveInstanceMethod.MoveInstanceMethodDialog/0.23.1536.866@0.23.1536.866" timestamp="1600426070713" />
+    <state x="521" y="205" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1600675896264">
+      <screen x="0" y="23" width="1536" height="866" />
+    </state>
+    <state x="521" y="205" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1536.866@0.23.1536.866" timestamp="1600675896264" />
+    <state width="751" height="466" key="DebuggerActiveHint" timestamp="1600670575682">
+      <screen x="0" y="23" width="1536" height="866" />
+    </state>
+    <state width="751" height="466" key="DebuggerActiveHint/0.23.1536.866@0.23.1536.866" timestamp="1600670575682" />
+    <state width="1417" height="206" key="GridCell.Tab.0.bottom" timestamp="1600681822559">
+      <screen x="0" y="23" width="1536" height="866" />
+    </state>
+    <state width="1417" height="206" key="GridCell.Tab.0.bottom/0.23.1536.866@0.23.1536.866" timestamp="1600681822559" />
+    <state width="1417" height="206" key="GridCell.Tab.0.center" timestamp="1600681822558">
+      <screen x="0" y="23" width="1536" height="866" />
+    </state>
+    <state width="1417" height="206" key="GridCell.Tab.0.center/0.23.1536.866@0.23.1536.866" timestamp="1600681822558" />
+    <state width="1417" height="206" key="GridCell.Tab.0.left" timestamp="1600681822558">
+      <screen x="0" y="23" width="1536" height="866" />
+    </state>
+    <state width="1417" height="206" key="GridCell.Tab.0.left/0.23.1536.866@0.23.1536.866" timestamp="1600681822558" />
+    <state width="1417" height="206" key="GridCell.Tab.0.right" timestamp="1600681822559">
+      <screen x="0" y="23" width="1536" height="866" />
+    </state>
+    <state width="1417" height="206" key="GridCell.Tab.0.right/0.23.1536.866@0.23.1536.866" timestamp="1600681822559" />
+    <state width="1417" height="256" key="GridCell.Tab.1.bottom" timestamp="1600681398077">
+      <screen x="0" y="23" width="1536" height="866" />
+    </state>
+    <state width="1417" height="256" key="GridCell.Tab.1.bottom/0.23.1536.866@0.23.1536.866" timestamp="1600681398077" />
+    <state width="1417" height="256" key="GridCell.Tab.1.center" timestamp="1600681398076">
+      <screen x="0" y="23" width="1536" height="866" />
+    </state>
+    <state width="1417" height="256" key="GridCell.Tab.1.center/0.23.1536.866@0.23.1536.866" timestamp="1600681398076" />
+    <state width="1417" height="256" key="GridCell.Tab.1.left" timestamp="1600681398076">
+      <screen x="0" y="23" width="1536" height="866" />
+    </state>
+    <state width="1417" height="256" key="GridCell.Tab.1.left/0.23.1536.866@0.23.1536.866" timestamp="1600681398076" />
+    <state width="1417" height="256" key="GridCell.Tab.1.right" timestamp="1600681398076">
+      <screen x="0" y="23" width="1536" height="866" />
+    </state>
+    <state width="1417" height="256" key="GridCell.Tab.1.right/0.23.1536.866@0.23.1536.866" timestamp="1600681398076" />
+    <state x="321" y="113" key="Maven.ArtifactSearchDialog" timestamp="1600403333152">
+      <screen x="0" y="23" width="1536" height="866" />
+    </state>
+    <state x="321" y="113" key="Maven.ArtifactSearchDialog/0.23.1536.866@0.23.1536.866" timestamp="1600403333152" />
+    <state x="154" y="138" width="1259" height="626" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1600659005196">
+      <screen x="0" y="23" width="1536" height="866" />
+    </state>
+    <state x="154" y="138" width="1259" height="626" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.23.1536.866@0.23.1536.866" timestamp="1600659005196" />
+    <state x="484" y="206" width="670" height="490" key="find.popup" timestamp="1600681387422">
+      <screen x="0" y="23" width="1536" height="866" />
+    </state>
+    <state x="484" y="206" width="670" height="490" key="find.popup/0.23.1536.866@0.23.1536.866" timestamp="1600681387422" />
+    <state x="151" y="114" key="new project wizard" timestamp="1600417354476">
+      <screen x="0" y="23" width="1536" height="866" />
+    </state>
+    <state x="151" y="114" key="new project wizard/0.23.1536.866@0.23.1536.866" timestamp="1600417354476" />
+    <state x="448" y="213" key="search.everywhere.popup" timestamp="1600412926830">
+      <screen x="0" y="23" width="1536" height="866" />
+    </state>
+    <state x="448" y="213" key="search.everywhere.popup/0.23.1536.866@0.23.1536.866" timestamp="1600412926830" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/dubbo-consumer/src/main/java/org/acme/quarkus/dubbo/consul/controller/OrderController.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/dubbo-provider/src/main/java/org/acme/quarkus/dubbo/consul/config/DubboProviderConfig.java</url>
+          <line>55</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/dubbo-provider/src/main/java/org/acme/quarkus/dubbo/consul/config/DubboProviderConfig.java</url>
+          <line>61</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/dubbo-provider/src/main/java/org/acme/quarkus/dubbo/consul/config/DubboProviderConfig.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/dubbo-consumer/src/main/java/org/acme/quarkus/dubbo/consul/config/DubboConsumerConfig.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo typeName="org.apache.dubbo.rpc.model.ServiceRepository" fieldName="services" />
+      </pinned-members>
+    </pin-to-top-manager>
+  </component>
+</project>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="dubbo-api" />
+        <module name="dubbo-provider" />
+        <module name="dubbo-consumer" />
+        <module name="xyzshop-api" />
+        <module name="xyzshop-consumer" />
+        <module name="xyzshop-provider" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="dubbo-api" target="11" />
+      <module name="dubbo-consumer" target="11" />
+      <module name="dubbo-provider" target="11" />
+      <module name="quarkus-dubbo-consul-demo" target="11" />
+      <module name="xyzshop-api" target="11" />
+      <module name="xyzshop-consumer" target="11" />
+      <module name="xyzshop-provider" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
